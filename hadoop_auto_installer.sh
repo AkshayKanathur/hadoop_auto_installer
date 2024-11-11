@@ -197,7 +197,7 @@ if [[ "$confirmation" =~ ^[Yy]$ ]]; then
 else
     echo "SSH will not start automatically."
     echo ""
-    echo "Run 'start-all.sh' next time when you want to start Hadoop."
+    echo "Run 'sudo service ssh start && start-all.sh' next time when you want to start Hadoop."
     echo ""
     sleep 5
 fi
