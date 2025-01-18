@@ -8,5 +8,3 @@ chmod +x hadoop_auto_installer.sh
 Tip: Sync ClusterID if incompatible ClusterID arise:
 
 Update the clusterID in the DataNode's VERSION file to match the NameNode's clusterID.
-##
-		Hay
