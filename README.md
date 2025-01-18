@@ -2,7 +2,7 @@
 
 Run the command  to install hadoop on your system automatically:
 ```bash
-chmod +x hadoop_auto_installer.sh
+chmod +x hadoop_auto_installer.sh
 ./hadoop_auto_installer.sh
 ```
 Tip: Sync ClusterID if incompatible ClusterID arise:
