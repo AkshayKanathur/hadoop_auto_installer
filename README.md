@@ -5,6 +5,6 @@ Run the command  to install hadoop on your system automatically:
 chmod +x hadoop_auto_installer.sh
 ./hadoop_auto_installer.sh
 ```
-Tip: Sync ClusterID if incompatible ClusterID arise:
+Tip: Sync ClusterID if "Incompatible ClusterID" arise:
 
 Update the clusterID in the DataNode's VERSION file to match the NameNode's clusterID.
