@@ -2,6 +2,8 @@
 
 Run the command  to install hadoop on your system automatically:
 ```bash
+git clone https://github.com/AkshayKanathur/hadoop_auto_installer
+cd hadoop_auto_installer
 chmod +x hadoop_auto_installer.sh
 ./hadoop_auto_installer.sh
 ```
